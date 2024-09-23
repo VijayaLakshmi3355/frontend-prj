@@ -1,0 +1,214 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Kumbh+Sans:wght@100..900&family=League+Spartan:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(bg-header-desktop.png);
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 400, 600;
+    display: grid;
+    
+}
+.img1{
+    margin-top: 40px;
+    position: relative;
+    top:0px;
+    left:530px;
+}
+.box1{
+   padding-left: 380px;
+}
+p{
+    width:580px;
+    margin-top: 10px;
+}
+span{
+    margin-left:70px;
+}
+.box2{
+    margin:auto;
+    margin-top: 30px;
+}
+.box2 .green{
+    border-radius:25px;
+    padding:13px;
+    
+    background-color:hsl(171, 66%, 44%) ;
+    color: white;    
+}
+.box2 .blue{
+   margin-left: 10px;
+   border-radius:25px;
+   padding:13px;
+   background-color:hsl(233, 100%, 69%) ;
+   color: white;
+}
+.box3 h2{
+    margin-left: 450px;
+    padding-top: 120px;
+}
+.box3 p{
+    margin-left: 350px;
+    width:620px;
+}
+.box3 span{
+    padding-left: 100px;
+
+}
+.box4{
+    margin-top:100px;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 100px;
+}
+.head{
+    position:relative;
+    right:100px;
+}
+.para h2{
+    margin-top:10px;
+    margin-bottom: 20px;
+}
+
+.para p{
+    width:350px;
+    margin-bottom:50px;
+}
+.box5 h2{
+    margin-left:500px;
+} 
+.box5 p{
+    width:600px;
+    margin-left:340px;
+}
+.box5 span{
+    margin-left:150px;
+}
+.tv img{
+    margin-top:40px;
+    margin-left:180px;
+    margin-bottom:50px;
+    
+}
+.super h1{
+    margin-left:450px;
+}
+.super p{
+    margin-left:480px;
+}
+.pics .first img{
+    margin-top:50px;
+    margin-left:180px;
+
+}
+.pics .first h2{
+    margin-top: 20px;
+    margin-left: 100px;
+} 
+.pics .first p{
+    width:420px;
+    margin-left:60px;
+}
+.pics .first span{
+    margin-left:15px;
+}
+.pics{
+    display:flex;
+}
+.pics .second img{
+    margin-top:60px;
+    margin-left:160px;
+
+}
+.pics .second h2{
+    margin-top: 20px;
+    margin-left: 80px;
+} 
+.pics .second p{
+    width:420px;
+    margin-left:30px;
+}
+.pics .first span{
+    margin-left:15px;
+}
+.pics .third img{
+    margin-top:60px;
+    margin-left:70px;
+
+}
+.pics .third h2{
+    margin-top: 20px;
+    margin-left: 30px;
+} 
+.pics .third p{
+    width:320px;
+    margin-left:0px;
+}
+.pics .third span{
+    margin-left:15px;
+}
+.companies{
+    display:flex;
+    justify-content:space-evenly;   
+}
+.goog img{
+    margin-top:140px;
+    margin-left:80px;
+}
+.box7{
+    margin-top:80px;
+    padding-left: 380px;
+}
+p{
+    width:600px;
+    margin-top: 10px;
+}
+span{
+    margin-left:70px;
+}
+.box8{
+    margin:auto;
+    margin-top: 30px;
+}
+.box8 .green{
+    border-radius:25px;
+    padding:13px;
+    
+    background-color:hsl(171, 66%, 44%) ;
+    color: white;    
+}
+.box8 .blue{
+   margin-left: 10px;
+   border-radius:25px;
+   padding:13px;
+   background-color:hsl(233, 100%, 69%) ;
+   color: white;
+}
+.lastp{
+    height:200px;
+    width:800px;
+    margin-top:100px;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+   
+}
+.lastpic button{
+    
+    padding:10px;
+    border-radius: 10px;
+    margin-left:40px;
+    margin-top:40px;
+}
+.lastp .lastem{
+   position:absolute;
+   right:0px;
+   margin-right:60px;
+   
+}
+
+button:hover{
+    color:red;
+}
