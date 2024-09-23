@@ -1,0 +1,67 @@
+.container{
+    height: 490px;
+    width:640px;
+    background-color:hsl(47, 88%, 63%);
+    border:2px solid hsl(47, 88%, 63%);
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+    margin-top: 70px;
+    box-sizing: border-box;
+    font-family: [Figtree](https://fonts.google.com/specimen/Figtree);
+    
+        
+}
+.min{
+    height:400px;
+    width:300px;
+    border:1px solid hsl(0, 0%, 6%);
+    box-sizing: border-box;
+    background-color:hsl(0, 0%, 100%);
+    margin-top:40px ;
+    border-radius: 5%;
+    box-shadow:3px 3px black;
+    
+    
+}
+.img{
+    margin-left:18px;
+    height:130px;
+    width:280px;
+    margin-top:10px;
+    margin-left: 10px;
+    
+}
+.button{
+    margin-left:18px;
+    border-radius:5px;
+    border: none;
+    height:30px;
+    width:80px;
+    margin-top: 10px;
+    font: 15px bold black;
+}
+.para{
+    margin-left:18px;
+}
+.head{
+    margin-left:18px;
+    font-family:Figtree-VariableFont_wght;
+    
+}
+.pa{
+    margin-left: 18px;
+    font-family: Figtree-SemiBold;
+    font-weight:500;
+    color:hsl(0, 0%, 42%);
+    
+}
+.per{
+    height:20px;
+    float:left;
+    margin-right: 20px;
+}
+
+
+
+
